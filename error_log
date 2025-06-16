@@ -1,0 +1,4 @@
+[18-Feb-2025 14:00:47 UTC] PHP Fatal error:  Trait "App\Providers\Illuminate\Http\Request" not found in /home/ssappdev/tenderinsight.ssappdev.com/app/Providers/AppServiceProvider.php on line 8
+[18-Feb-2025 14:00:47 UTC] PHP Fatal error:  Trait "App\Providers\Illuminate\Http\Request" not found in /home/ssappdev/tenderinsight.ssappdev.com/app/Providers/AppServiceProvider.php on line 8
+[18-Feb-2025 14:00:48 UTC] PHP Fatal error:  Trait "App\Providers\Illuminate\Http\Request" not found in /home/ssappdev/tenderinsight.ssappdev.com/app/Providers/AppServiceProvider.php on line 8
+[18-Feb-2025 14:00:48 UTC] PHP Fatal error:  Trait "App\Providers\Illuminate\Http\Request" not found in /home/ssappdev/tenderinsight.ssappdev.com/app/Providers/AppServiceProvider.php on line 8
